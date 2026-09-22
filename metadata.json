@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard เฝ้าระวังความเสี่ยงสุขภาพชุมชน",
+  "description": "ระบบ Dashboard ติดตามและเฝ้าระวังความเสี่ยงสุขภาพชุมชน วิเคราะห์ความเสี่ยง NCDs และพฤติกรรมสุขภาพ โดย สุธิดา ทับเงาะ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
